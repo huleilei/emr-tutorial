@@ -1,3 +1,24 @@
+
+> ⚠️ **项目已停止维护 / Project Retired**
+>
+> 本项目已于 **2026 年 7 月 5 日** 正式停止维护，不再接收新功能、Bug 修复和安全更新。
+>
+> This project has been officially retired as of **2026-07-05** and will no longer receive new features, bug fixes, or security updates.
+>
+> 📌 **替代方案 / Alternative**
+>
+> 请访问 [火山引擎 EMR 官方文档中心](https://www.volcengine.com/docs/6491) 获取最新的使用指南、示例代码和最佳实践。
+>
+> For the latest guides, examples, and best practices, please visit the [Volcengine EMR Official Documentation Center](https://www.volcengine.com/docs/6491).
+>
+> 📦 **代码说明 / Note**
+>
+> 项目代码将以只读归档形式保留，您仍可 Fork 和参考使用，但不保证安全性和维护支持。
+>
+> The codebase remains available as a read-only archive. You may fork and reference it, but no security or maintenance support is provided.
+
+---
+
 ## 火山EMR简介
 
 火山EMR 提供火山增强的 Hadoop、Spark、Flink、Hive、Presto、Hudi、Iceberg 、Doris/StarRocks、Ray、PyTorch 等大数据与AI 生态组件，100%开源兼容，支持构建 数据湖、湖仓一体、Data for AI 等平台架构。
